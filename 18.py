@@ -29,7 +29,7 @@ class Garage(House):
         self.__instrumenty = instrumenty
 
 
-    def get_have_car(self):
+    def get_havaaaaaaaaaaaaasa e_car(self):
         return self.__have_car
     def set_have_car(self):
         self.__
